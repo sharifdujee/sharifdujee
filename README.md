@@ -2,7 +2,9 @@
 - 👀 I’m interested in  Backend Development
 - 🌱 I’m currently learning  Flutters
 - 💞️ I’m looking to collaborate on  Front-end Developers
-- 📫 How to reach me ... email: sharifdu44@gmail.com
+- 📫 How to reach me ...
+- Email: ![Email QR](https://github.com/sharifdujee/sharifdujee/assets/126006549/afe79a5e-cf3d-4108-8bce-c37d3443c90a)
+
 - ![GitHub](https://github.com/sharifdujee/sharifdujee/assets/126006549/f950323b-48b6-4d2e-93b9-2eb86a224113)
 ![Linkedin](https://github.com/sharifdujee/sharifdujee/assets/126006549/80d3aa4f-be59-486c-8b5e-6db7e96c8a05)
 ![youtbube](https://github.com/sharifdujee/sharifdujee/assets/126006549/23c19658-774a-4eef-9a22-0bf2c44165e7)
