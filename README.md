@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sharifdujee
+- 👋 Hi, I’m  Md Sharif Hossain
+- Junior Software Engineer, Circle Technology Limited
 - 👀 I’m interested in  Backend Development
 - 🌱 I’m currently learning  Flutters
 - 💞️ I’m looking to collaborate on  Front-end Developers
