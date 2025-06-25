@@ -3,6 +3,7 @@
 - 👀 I’m interested in  Backend Development
 - 🌱 I’m currently learning  Flutters
 - 💞️ I’m looking to collaborate on  Front-end Developers
+- Waka Time : https://wakatime.com/badge/user/3f9a3bdf-75e2-4d23-9fc1-9cdff6838370.svg
 - 📫 How to reach me ...
 - Email: ![Email QR](https://github.com/sharifdujee/sharifdujee/assets/126006549/afe79a5e-cf3d-4108-8bce-c37d3443c90a)
 
