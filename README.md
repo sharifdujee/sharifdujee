@@ -3,8 +3,9 @@
    - SM Technology Limited
  - My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width="20"/> : <a href="https://wakatime.com/@3f9a3bdf-75e2-4d23-9fc1-9cdff6838370"><img src="https://wakatime.com/badge/user/3f9a3bdf-75e2-4d23-9fc1-9cdff6838370.svg" alt="Total time coded since Feb 20 2025" /></a>
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sharifdujee)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=radical)
+
 ![MY 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies ![trophy](https://github-profile-trophy.vercel.app/?username=sharifdujee&theme=onedark) 
 ## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight) 
 ## 🚀 Streak Stats ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharifdujee&theme=tokyonight) 
