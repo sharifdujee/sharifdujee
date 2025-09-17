@@ -10,13 +10,14 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=sharifdujee&theme=onedark)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://your-app.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight)
 
 ## 🚀 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharifdujee&theme=tokyonight)
 
-## 🌟 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=tokyonight)
+
+![Top Langs](https://your-app.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=tokyonight)
+
 
 
 ---
