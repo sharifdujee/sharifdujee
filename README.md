@@ -15,7 +15,7 @@
 ## 🚀 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharifdujee&theme=tokyonight)
 
-
+## 📊 Top Languages 
 ![Top Langs](https://your-app.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=tokyonight)
 
 
