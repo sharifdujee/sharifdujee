@@ -13,10 +13,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight)
 
 ## 🚀 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharifdujee&theme=tokyonight)
 
 ## 🌟 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=tokyonight)
 
 ---
 
