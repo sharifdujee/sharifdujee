@@ -7,9 +7,7 @@
 ![MY 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies ![trophy](https://github-profile-trophy.vercel.app/?username=sharifdujee&theme=onedark) 
-## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight) 
 ## 🚀 Streak Stats ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharifdujee&theme=tokyonight) 
-## 🌟 Languages ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=tokyonight) 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sharif-hossain-5724161aa/) 
 ## 🛠️ Tools & Technologies I Use
