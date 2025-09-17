@@ -40,5 +40,9 @@
 ![Riverpod](https://img.shields.io/badge/Riverpod-0B8E5F?style=for-the-badge&logo=riverpod&logoColor=white) 
 ![Bloc](https://img.shields.io/badge/Bloc-3985F4?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 👀 I’m interested in Backend Development - - 🌱 I’m currently learning Flutters - - 💞️ I’m looking to collaborate on Front-end Developers - 😄 Pronouns: sharif - ⚡ Fun fact: I am not funny, lack of emotion
+- 👀 I’m interested in Backend Development - -
+-
+-   🌱 I’m currently learning Flutters - 💞️ I’m looking to collaborate on Front-end Developers
+   - 😄 Pronouns: sharif
+ - ⚡ Fun fact: I am not funny, lack of emotion
 -  <!--- sharifdujee/sharifdujee is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. ---> ![Uploading GitHub.png…]()
