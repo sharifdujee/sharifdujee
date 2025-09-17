@@ -27,5 +27,10 @@
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) 
 ![SSLCommerz](https://img.shields.io/badge/SSLCommerz-005BAC?style=for-the-badge&logo=ssl&logoColor=white) ![Background Service](https://img.shields.io/badge/Background%20Service-6A1B9A?style=for-the-badge&logo=android&logoColor=white)
 ![Push Notification](https://img.shields.io/badge/Push%20Notification-FF5722?style=for-the-badge&logo=googlefirebase&logoColor=white) 
+
+<!-- State Management -->
+![GetX](https://img.shields.io/badge/GetX-DD25AF?style=for-the-badge&logo=flutter&logoColor=white) 
+![Riverpod](https://img.shields.io/badge/Riverpod-0B8E5F?style=for-the-badge&logo=riverpod&logoColor=white) 
+![Bloc](https://img.shields.io/badge/Bloc-3985F4?style=for-the-badge&logo=flutter&logoColor=white)
 - 👀 I’m interested in Backend Development - - 🌱 I’m currently learning Flutters - - 💞️ I’m looking to collaborate on Front-end Developers - 😄 Pronouns: sharif - ⚡ Fun fact: I am not funny, lack of emotion
 -  <!--- sharifdujee/sharifdujee is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. ---> ![Uploading GitHub.png…]()
