@@ -7,10 +7,10 @@
  ![MY 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=sharifdujee&theme=onedark)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight)
 
 ## 🚀 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
