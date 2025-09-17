@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies ![trophy](https://github-profile-trophy.vercel.app/?username=sharifdujee&theme=onedark) 
 ## 🚀 Streak Stats ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharifdujee&theme=tokyonight) 
-## Connect with me:
+## Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sharif-hossain-5724161aa/) 
 ## 🛠️ Tools & Technologies I Use
 
