@@ -50,6 +50,8 @@
 
 [![EverBright Home Care](https://img.shields.io/badge/EverBright%20Home%20Care-Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.everbrighthomecare.contract.app&pcampaignid=web_share)
 
+[![Carla+ Curls](https://img.shields.io/badge/Carla%2B%20Curls-Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.carlaplus.curls&pcampaignid=web_share)
+
 
 - 👀 I’m interested in Backend Development - -
 -
