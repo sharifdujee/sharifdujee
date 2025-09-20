@@ -56,6 +56,8 @@
 
 [![Carla+ Curls](https://img.shields.io/badge/Carla%2B%20Curls-Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.carlaplus.curls&pcampaignid=web_share)
 
+[![Mortben Fitness](https://img.shields.io/badge/Mortben%20Fitness-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/mortben-fitness/id6749269323)
+
 
 - 👀 I’m interested in Backend Development - -
 -
