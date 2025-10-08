@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharifdujee&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharif_dev&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
   </a>
 </p>
 
