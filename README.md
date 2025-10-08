@@ -2,24 +2,7 @@
 - Flutter Developer,
    - SM Technology Limited
  
-<!-- Header with animated gradient and 3D effect -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Flutter+Developer;Kotlin+Enthusiast;Jetpack+Compose+Multiplatform" alt="Typing Animation" />
-</p>
-
-<!-- Rainbow divider -->
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- Visitor counter with snake animation -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharifdujee&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sharifdujee?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
-</p>
-
-![GitHub Snake Animation](https://github.com/sharifdujee/sharifdujee/blob/main/dist/github-snake-dark.svg)
 
 <!-- Profile cards with glow effect -->
  - My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width="20"/> : <a href="https://wakatime.com/@3f9a3bdf-75e2-4d23-9fc1-9cdff6838370"><img src="https://wakatime.com/badge/user/3f9a3bdf-75e2-4d23-9fc1-9cdff6838370.svg" alt="Total time coded since Feb 20 2025" /></a>
