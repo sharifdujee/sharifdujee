@@ -12,6 +12,17 @@
 ## 🚀 GitHub Streak Stats  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharifdujee&theme=tokyonight)](https://git.io/streak-stats)
 
+---
+
+## ⏱️ WakaTime Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharifdujee&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  </a>
+</p>
+
+
 ## Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sharif-hossain-5724161aa/) 
 ## 🛠️ Tools & Technologies I Use
