@@ -21,10 +21,11 @@
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <a href="https://https://wakatime.com/@sharif_dev">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharif_dev&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <a href="https://wakatime.com/@sharif_dev">
+    <img src="https://wakatime.com/badge/user/3f9a3bdf-75e2-4d23-9fc1-9cdff6838370.svg" alt="Total time coded" />
   </a>
 </p>
+
 
 
 ## Connect with me: 
