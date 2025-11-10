@@ -21,7 +21,7 @@
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
+  <a href="https://https://wakatime.com/@sharif_dev">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharif_dev&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
   </a>
 </p>
