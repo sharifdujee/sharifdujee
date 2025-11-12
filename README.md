@@ -78,6 +78,15 @@
 
 [![Mortben Fitness](https://img.shields.io/badge/Mortben%20Fitness-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/mortben-fitness/id6749269323)
 
+📲 Published Apps
+
+[![Nouvi Network Marketplace (Android)](https://img.shields.io/badge/Nouvi%20Network%20Marketplace-Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nouviservices.nouvi&pcampaignid=web_share)
+
+[![Nouvi Network Marketplace (iOS)](https://img.shields.io/badge/Nouvi%20Network%20Marketplace-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/nouvi-network-marketplace/id6754693021)
+
+
+
+
 
 - 👀 I’m interested in Backend Development - -
 -
