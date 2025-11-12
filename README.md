@@ -51,6 +51,10 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) 
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) 
 ![SSLCommerz](https://img.shields.io/badge/SSLCommerz-005BAC?style=for-the-badge&logo=ssl&logoColor=white)
+![ZeGoCloud](https://img.shields.io/badge/ZeGoCloud-099DFD?style=for-the-badge&logo=zegocloud&logoColor=white)
+![Moyasar](https://img.shields.io/badge/Moyasar-0061FF?style=for-the-badge&logo=moyasar&logoColor=white)
+![In-App Purchase (Apple)](https://img.shields.io/badge/In--App%20Purchase%20(Apple)-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ### 🧰 Dev Tools & Utilities
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
