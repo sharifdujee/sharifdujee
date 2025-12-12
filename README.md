@@ -82,6 +82,9 @@
 
 [![Nouvi Network Marketplace (iOS)](https://img.shields.io/badge/Nouvi%20Network%20Marketplace-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/nouvi-network-marketplace/id6754693021)
 
+[![Freeman](https://img.shields.io/badge/Freeman-Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.freeman.freemanz&pcampaignid=web_share)
+
+
 
 
 
