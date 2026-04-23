@@ -88,6 +88,9 @@
 
 [![Araam Meditations](https://img.shields.io/badge/Araam%20Meditations-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/araam-meditations/id6758739785)
 
+[![Bridge Connection](https://img.shields.io/badge/Bridge%20Connection-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bridge-connection/id6762170336)
+
+
 
 
 
