@@ -90,6 +90,9 @@
 
 [![Bridge Connection](https://img.shields.io/badge/Bridge%20Connection-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bridge-connection/id6762170336)
 
+[![Biz Meet](https://img.shields.io/badge/Biz%20Meet-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/biz-meet/id6760164388)
+
+
 
 
 
