@@ -87,6 +87,9 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
 ![ZeGoCloud](https://img.shields.io/badge/ZeGoCloud-099DFD?style=for-the-badge&logo=zegocloud&logoColor=white)
 ![Moyasar](https://img.shields.io/badge/Moyasar-0061FF?style=for-the-badge&logo=moyasar&logoColor=white)
 ![In-App Purchase (Apple)](https://img.shields.io/badge/In--App%20Purchase%20(Apple)-000000?style=for-the-badge&logo=apple&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-FF4F00?style=for-the-badge&logo=revenuecat&logoColor=white)
+![Screen%20Sharing](https://img.shields.io/badge/Screen%20Sharing-4CAF50?style=for-the-badge&logo=googlemeet&logoColor=white)
+![Voice%20Message](https://img.shields.io/badge/Voice%20Message-673AB7?style=for-the-badge&logo=googlemessages&logoColor=white)
 
 ### 🧰 Dev Tools & Utilities
 
