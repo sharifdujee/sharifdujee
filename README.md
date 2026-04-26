@@ -96,6 +96,8 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Background Service](https://img.shields.io/badge/Background%20Service-6A1B9A?style=for-the-badge&logo=android&logoColor=white)
 ![Push Notification](https://img.shields.io/badge/Push%20Notification-FF5722?style=for-the-badge&logo=googlefirebase&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
+![Quicktype](https://img.shields.io/badge/Quicktype-009688?style=for-the-badge&logo=quicktype&logoColor=white)
 
 ### ⚙️ State Management
 
