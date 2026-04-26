@@ -66,13 +66,36 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
 
 ### 🚀 Mobile & Platform Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Play Store](https://img.shields.io/badge/Play%20Store-Android-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)
-![App Store](https://img.shields.io/badge/App%20Store-iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+## 📱 Core Technologies
+
+<p align="left">
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+</p>
+
+## 📲 Platforms & Deployment
+
+<p align="left">
+  <a href="https://developer.android.com/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+  <a href="https://developer.apple.com/ios/">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  </a>
+  <a href="https://play.google.com/console">
+    <img src="https://img.shields.io/badge/Play%20Store-Android-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>
+  </a>
+  <a href="https://appstoreconnect.apple.com/">
+    <img src="https://img.shields.io/badge/App%20Store-iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  </a>
+</p>
 
 
 ### 🔥 Backend & APIs
