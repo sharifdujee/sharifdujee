@@ -92,9 +92,7 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
   <a href="https://play.google.com/console">
     <img src="https://img.shields.io/badge/Play%20Store-Android-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>
   </a>
-  <a href="https://appstoreconnect.apple.com/">
-    <img src="https://img.shields.io/badge/App%20Store-iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  </a>
+  
 </p>
 
 
