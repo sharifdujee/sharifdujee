@@ -30,10 +30,32 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sharif-hossain-5724161aa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://v0-portfolio-website-creation-lovat-three.vercel.app/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mdSharifHossaindu)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801707825237)
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/md-sharif-hossain-5724161aa/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://v0-portfolio-website-creation-lovat-three.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.facebook.com/mdSharifHossaindu">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://wa.me/8801707825237">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ## 🛠️ Tools & Technologies I Use
 
 ### 🚀 Mobile & Backend Development
