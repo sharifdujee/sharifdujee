@@ -74,22 +74,64 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
 ![Play Store](https://img.shields.io/badge/Play%20Store-Android-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App%20Store-iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### 🛢️ Backend & APIs
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-005BAC?style=for-the-badge&logo=ssl&logoColor=white)
-![ZeGoCloud](https://img.shields.io/badge/ZeGoCloud-099DFD?style=for-the-badge&logo=zegocloud&logoColor=white)
-![Moyasar](https://img.shields.io/badge/Moyasar-0061FF?style=for-the-badge&logo=moyasar&logoColor=white)
-![In-App Purchase (Apple)](https://img.shields.io/badge/In--App%20Purchase%20(Apple)-000000?style=for-the-badge&logo=apple&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-FF4F00?style=for-the-badge&logo=revenuecat&logoColor=white)
-![Screen%20Sharing](https://img.shields.io/badge/Screen%20Sharing-4CAF50?style=for-the-badge&logo=googlemeet&logoColor=white)
-![Voice%20Message](https://img.shields.io/badge/Voice%20Message-673AB7?style=for-the-badge&logo=googlemessages&logoColor=white)
+### 🔥 Backend & APIs
+<p align="left">
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  </a>
+  <a href="https://restfulapi.net/">
+    <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API">
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  </a>
+</p>
+
+### 💳 Payments & Monetization
+<p align="left">
+  <a href="https://stripe.com/">
+    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+  </a>
+  <a href="https://sslcommerz.com/">
+    <img src="https://img.shields.io/badge/SSLCommerz-005BAC?style=for-the-badge&logo=ssl&logoColor=white"/>
+  </a>
+  <a href="https://moyasar.com/">
+    <img src="https://img.shields.io/badge/Moyasar-0061FF?style=for-the-badge&logo=moyasar&logoColor=white"/>
+  </a>
+  <a href="https://www.revenuecat.com/">
+    <img src="https://img.shields.io/badge/RevenueCat-FF4F00?style=for-the-badge&logo=revenuecat&logoColor=white"/>
+  </a>
+  <a href="https://developer.apple.com/in-app-purchase/">
+    <img src="https://img.shields.io/badge/In--App%20Purchase-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  </a>
+</p>
+
+### 📡 Real-Time Communication
+<p align="left">
+  <a href="https://www.agora.io/">
+    <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white"/>
+  </a>
+  <a href="https://webrtc.org/">
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  </a>
+  <a href="https://www.zegocloud.com/">
+    <img src="https://img.shields.io/badge/ZeGoCloud-099DFD?style=for-the-badge&logo=zegocloud&logoColor=white"/>
+  </a>
+  <a href="https://webrtc.org/getting-started/overview">
+    <img src="https://img.shields.io/badge/Screen%20Sharing-4CAF50?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder">
+    <img src="https://img.shields.io/badge/Voice%20Message-673AB7?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+  </a>
+</p>
+
+### 🗺️ Maps & Location Services
+<p align="left">
+  <a href="https://developers.google.com/maps">
+    <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  </a>
+</p>
 
 ### 🧰 Dev Tools & Utilities
 
