@@ -188,7 +188,7 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
 | Freeman | Android | [![Play Store](https://img.shields.io/badge/Play%20Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.freeman.freemanz&pcampaignid=web_share) |
 | Freemanz | iOS | [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/freemanz/id6755990083) |
 | Araam Meditations | iOS | [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/araam-meditations/id6758739785) |
-| Bridge Connection | iOS | [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bridge-connection/id6762170336) |
+| Bridge Network | Android | [![Play Store](https://img.shields.io/badge/Play%20Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.bridgenetwork&pcampaignid=web_share) |
 | Biz Meet | iOS | [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/biz-meet/id6760164388) |
 | AbsFresh Store | Android | [![Play Store](https://img.shields.io/badge/Play%20Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.absfresh.store&hl=en) |
 
