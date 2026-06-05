@@ -25,6 +25,48 @@ I thrive on solving complex UI/UX challenges, implementing clean architecture pa
 
 ---
 
+# 📊 GitHub Dashboard
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharifdujee&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharifdujee&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharifdujee&theme=tokyonight&utcOffset=6" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharifdujee&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharifdujee&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sharifdujee&theme=tokyonight&hide_border=true" />
+</p>
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharifdujee&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharifdujee&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharifdujee&theme=tokyonight&utcOffset=6" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharifdujee&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharifdujee&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sharifdujee&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📊 Coding Activity
 
 My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width="20"/> : <a href="https://wakatime.com/@3f9a3bdf-75e2-4d23-9fc1-9cdff6838370"><img src="https://wakatime.com/badge/user/3f9a3bdf-75e2-4d23-9fc1-9cdff6838370.svg" alt="Total time coded since Feb 20 2025" /></a>
