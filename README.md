@@ -24,8 +24,7 @@ I thrive on solving complex UI/UX challenges, implementing clean architecture pa
 - ⚡ Fun fact: I am not funny, lack of emotion
 
 ---
-
-# 📊 GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharifdujee&theme=tokyonight" />
@@ -41,9 +40,14 @@ I thrive on solving complex UI/UX challenges, implementing clean architecture pa
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharifdujee&theme=tokyonight" />
 </p>
 
+<!-- GitHub Stats Card (same style as screenshot) -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=sharifdujee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sharifdujee&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -68,11 +72,7 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
 
 ---
 
-## 🚀 GitHub Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharifdujee&theme=tokyonight)](https://git.io/streak-stats)
-
----
 
 ## ⏱️ WakaTime Stats
 
