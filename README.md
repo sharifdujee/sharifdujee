@@ -50,6 +50,10 @@ I thrive on solving complex UI/UX challenges, implementing clean architecture pa
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifdujee&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharifdujee&theme=tokyonight" />
+</p>
+
 
 ## 📊 Coding Activity
 
