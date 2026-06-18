@@ -217,6 +217,7 @@ My Coding Activity <img src="https://wakatime.com/static/img/wakatime.svg" width
 | Bridge System | Android | [![Play Store](https://img.shields.io/badge/Play%20Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.bridgenetwork&pcampaignid=web_share) |
 | Bridge System | iOS | [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bridge-connection/id6762170336) |
 | Biz Meet | iOS | [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/biz-meet/id6760164388) |
+| Shaara | iOS | [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/shaara/id6759182992) |
 | AbsFresh Store | Android | [![Play Store](https://img.shields.io/badge/Play%20Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.absfresh.store&hl=en) |
 
 ---
