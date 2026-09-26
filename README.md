@@ -1,7 +1,6 @@
 # Hi, I'm Md. Sharif Hossain 👋
 
 ** Smartphone Apps Developer @ Innovate Solution**
-
 ---
 
 ## 🎯 Career Objective
